@@ -1,4 +1,7 @@
-# **XiaoMi Mi8 Live Shot Enable**
-## Description
-Enable Live Shot(动态照片) for XiaoMi Mi8 Camera and Gallery
+# **[Magisk]MIUI 动态照片**
+- 开启动态照片
+- 记忆动态照片开启状态
+- 相册支持动态照片编辑
 
+## 测试机型
+小米8探索版
