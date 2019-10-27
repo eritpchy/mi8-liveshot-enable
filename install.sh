@@ -136,7 +136,7 @@ on_install() {
   unzip -o "$ZIPFILE" 'system/*' -d $MODPATH >&2
 
   ui_print "- Cleaning system application cache"
-  rm -f /data/system/package_cache/1/MiuiExtraPhoto* || true
+  rm -f /data/system/package_cache/*/MiuiExtraPhoto* || true
 }
 
 # Only some special files require specific permissions
